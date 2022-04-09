@@ -1,0 +1,6 @@
+﻿  opencv-test.cpp
+C:\Users\waiyi\source\repos\opencv-test\opencv-test\opencv-test.cpp(62,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\waiyi\source\repos\opencv-test\opencv-test\opencv-test.cpp(63,29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\waiyi\source\repos\opencv-test\opencv-test\opencv-test.cpp(104,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\waiyi\source\repos\opencv-test\opencv-test\opencv-test.cpp(105,29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  opencv-test.vcxproj -> C:\Users\waiyi\source\repos\opencv-test\x64\Debug\opencv-test.exe
